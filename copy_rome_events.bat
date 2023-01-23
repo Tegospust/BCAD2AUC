@@ -1,0 +1,1 @@
+copy rome_events.txt .\dist\rome_events.txt

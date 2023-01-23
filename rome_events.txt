@@ -1,0 +1,21 @@
+*** format pliku: rok=opis wydarzenia
+*** lata p.n.e. - liczby ujemne
+***
+1453=Upadek Cesarstwa wschodniorzymskiego. Konstantynopol zdobyty przez Mehmeda II
+1204=Drugie splądrowanie Konstantynopola podczas IV. wyprawy krzyżowej
+1203=Pierwsze splądrowanie Konstantynopola podczas IV. wyprawy krzyżowej
+476=Upadek Cesarstwa zachodniorzymskiego
+337=Śmierć Konstatnyna I Wielkiego
+272=Narodziny Konstantyna I Wielkiego
+14=Śmierć Oktawiana Augusta
+9=Bitwa w Lesie Teutoburskim
+-63=Narodziny Oktawiana Augusta
+-43=Marek Tulliusz Cyceron zostaje zamordowany
+-44=Gaiusz Juliusz Cezar zostaje zamordowany
+-45=Wprowadzenie kalendarza juliańskiego
+-51=Koniec wojen galijskich
+-58=Początek wojen galijskich
+-100=Narodziny Gaiusza Juliusza Cezara
+-106=Narodziny Marka Tulliusza Cycerona
+-264=Początek I Wojny Punickiej
+-753=Romulus i Remus dają początek Rzymowi
